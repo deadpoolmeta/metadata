@@ -1,6 +1,6 @@
 {
   "name": "$VPILOT",
   "symbol": "$VPILOT",
-  "description": "The $VPILOT token is integral to our ecosystem, serving as a key reward mechanism within the Solana Sky Pilots framework. $VPILOT holders are rewarded with $PILOT tokens, reflecting their engagement and participation. As part of our reward structure, 4% of the total $PILOT token supply (40 billion tokens) has been allocated for $VPILOT holders.",
+  "description": "The $VPILOT token is integral to our ecosystem, serving as a key reward mechanism within the Solana Sky Pilots framework. $VPILOT holders are rewarded with $PILOT tokens, reflecting their engagement and participation. As part of our reward structure, 2% of the total $PILOT token supply (20 billion tokens) has been allocated for $VPILOT holders.",
   "image": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/pilot/pilot.png"
 }
