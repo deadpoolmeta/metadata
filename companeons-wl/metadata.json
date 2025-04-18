@@ -1,0 +1,6 @@
+{
+  "name": "Companeons Whitelist Token",
+  "symbol": "WL-COMP",
+  "description": "The Companeons Whitelist Token (WL-COMP) is a special-access SPL token used to secure guaranteed mint rights during the Companeons NFTs whitelist phase. Holding this token grants eligibility to mint 1 Companeon NFT ahead of the public sale. Each WL-COMP token is redeemable for one mint allocation and is automatically burned upon use. Designed for early supporters, partners, and active community members, WL-COMP ensures a fair, transparent, and bot-resistant NFT distribution process during the whitelist round.",
+  "image": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/companeons-wl/image.png"
+}
