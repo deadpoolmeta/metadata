@@ -1,6 +1,7 @@
 {
   "name": "Portal Badge",
   "symbol": "PORTAL",
-  "description": "Early supporter badge of Companeons DAO. Non-tradable SPL token with 10,000 total supply. Grants access to $VCOMP rewards, exclusive perks, whitelist mints, and DAO privileges.🔗 Official Links : https://linktr.ee/companeons",
-  "image": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/portal-badge/image.png"
+  "description": "Early supporter badge of Companeons DAO. Non-tradable SPL token with 10,000 total supply. Grants access to $VCOMP rewards, exclusive perks, whitelist mints, and DAO privileges.",
+  "image": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/portal-badge/image.png",
+  "external_url": "https://linktr.ee/companeons"
 }
