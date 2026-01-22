@@ -1,0 +1,26 @@
+{
+  "name": "Sky Pilots Mint Pass",
+  "symbol": "SKYPASS",
+  "description": "Official Mint Pass for Solana Sky Pilots NFTs. Each SKYPASS is redeemable for 1 free mint and is typically burned on redemption. Supply is capped at 1,000. Decimals: 0.",
+  "image": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/skypass/image.png",
+  "external_url": "https://solanaskypilots.com/",
+  "attributes": [
+    { "trait_type": "Type", "value": "Mint Pass" },
+    { "trait_type": "Redeemable For", "value": "1 Free NFT Mint" },
+    { "trait_type": "Project", "value": "Solana Sky Pilots" },
+    { "trait_type": "Supply", "value": "1000" },
+    { "trait_type": "Decimals", "value": "0" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/skypass/image.png",
+        "type": "image/png"
+      }
+    ],
+    "links": {
+      "website": "https://solanaskypilots.com/"
+    }
+  }
+}
