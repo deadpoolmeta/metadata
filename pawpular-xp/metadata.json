@@ -1,0 +1,15 @@
+{
+  "name": "PawPular XP",
+  "symbol": "PAWXP",
+  "description": "PawPular XP is a Discord reward token earned through chatting, tweeting, holding, and completing community tasks. Use your XP to claim PawPular MystiKeys and unlock exclusive rewards.",
+  "image": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/pawpular-xp/image.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/pawpular-xp/image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
