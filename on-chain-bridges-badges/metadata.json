@@ -1,0 +1,6 @@
+{
+  "name": "Onchain Bridges Badges",
+  "symbol": "OCB",
+  "description": "Non-tradable SPL TOKEN. grants access to $TLPT rewards on Solana with 10,000 supply.",
+  "image": "https://raw.githubusercontent.com/deadpoolmeta/metadata/main/on-chain-bridges-badges/image.jpg"
+}
